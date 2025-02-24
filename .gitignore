@@ -59,3 +59,4 @@ Thumbs.db
 
 notebooks/torch-ex1/data/
 notebooks/torch-ex1/model.pth
+notebooks/cifar-cnn/data/
