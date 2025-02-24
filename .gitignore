@@ -49,3 +49,13 @@ ENV/
 .Trashes
 ehthumbs.db
 Thumbs.db 
+
+# PyTorch
+*.pth
+*.pt
+*.pth.tar
+*.pth.tar.gz
+*.pth.tar.xz
+
+notebooks/torch-ex1/data/
+notebooks/torch-ex1/model.pth
